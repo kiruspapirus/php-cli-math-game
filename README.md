@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/kiruspapirus/php-cli-math-game.git
-cd php-project-45 
+cd php-cli-math-game 
 make install
 ```
 ## Rules
