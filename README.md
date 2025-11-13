@@ -1,7 +1,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/kiruspapirus/php-project-45.git
+git clone https://github.com/kiruspapirus/php-cli-math-game.git
 cd php-project-45 
 make install
 ```
